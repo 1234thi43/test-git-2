@@ -1,0 +1,23 @@
+[33mcommit 4e7bd18f02a990728aac79ccf2f8a1562ec9355d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: Danil Bystrov <danilbystrov8@gmail.com>
+Date:   Sat Apr 26 15:39:35 2025 +0300
+
+    develop header
+
+[33mcommit 8579a35d9413641ff6842801dcd8ffff84778ce2[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Danil Bystrov <danilbystrov8@gmail.com>
+Date:   Mon Apr 21 23:13:47 2025 +0300
+
+    change html
+
+[33mcommit 0833ff1a3c759c939b216847d325ec4b8807f3a3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Danil Bystrov <danilbystrov8@gmail.com>
+Date:   Mon Apr 21 14:53:06 2025 +0300
+
+    add algorithm to push data on github
+
+[33mcommit 1b9db45620179f0bf06acd1c38055d37ee9d2e1f[m
+Author: Danil Bystrov <danilbystrov8@gmail.com>
+Date:   Mon Apr 21 14:46:55 2025 +0300
+
+    init project
